@@ -1,0 +1,7 @@
+index.js
+
+è il file principale dove vengono reindirizzati tutti i file.
+in cui si specificano le principali cose 
+
+packaje.json
+pacchetti esterni che vengono installati
